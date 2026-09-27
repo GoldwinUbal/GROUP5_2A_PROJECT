@@ -1,6 +1,6 @@
 Hello this is group 5's collaboration project.
 
-====================================================================================================================================================================
+=================================
 
   Steps on how to run the program:
   
@@ -24,13 +24,12 @@ Hello this is group 5's collaboration project.
   
   6#: Mark the bill as paid - After the tenant pays, in the menu, choose "4" This will mark the bill as paid and displays "Bill has been marked as PAID."
 
-====================================================================================================================================================================
+=================================
 
-NOTE: that the primary user is the property administrator/property staff who manages tenant information and billing. 
-      The system primarily assist property administrators in managing the leases and monthly bills of commercial-property tenants.
+NOTE: that the primary user is the property administrator/property staff who manages tenant information and billing. The system primarily assist property administrators in managing the leases and monthly bills of commercial-property tenants.
 NOTE: With this current version of our code, the system can only manage one tenant/property at a time.
 
-====================================================================================================================================================================
+=================================
 
 FUTURE PLANS: We're planning on adding a data base via the usage of SQLite so that we can permanently store the tenant data permanently. But for now, we're going to stick with this prototype as the means of guiding us on what to add next.
  -Group 5
