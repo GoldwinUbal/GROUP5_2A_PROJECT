@@ -32,5 +32,5 @@ NOTE: With this current version of our code, the system can only manage one tena
 
 =================================
 
-FUTURE PLANS: We're planning on adding a data base via the usage of SQLite so that we can permanently store the tenant data permanently. But for now, we're going to stick with this prototype as the means of guiding us on what to add next.
+FUTURE PLANS: We're planning on adding a data base via the usage of SQLite so that we can permanently store the tenant data permanently. And, we're also planning on creating arrays so the program can handle multiple tenants at a time and record them. But for now, we're going to stick with this prototype as the means of guiding us on what to add next.
  -Group 5
