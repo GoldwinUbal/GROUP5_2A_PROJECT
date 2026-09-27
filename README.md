@@ -27,6 +27,7 @@ Hello this is group 5's collaboration project.
 =================================
 
 NOTE: that the primary user is the property administrator/property staff who manages tenant information and billing. The system primarily assist property administrators in managing the leases and monthly bills of commercial-property tenants.
+
 NOTE: With this current version of our code, the system can only manage one tenant/property at a time.
 
 =================================
